@@ -1,0 +1,9 @@
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\bin\Debug\The Guidow Maker.exe
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\bin\Debug\The Guidow Maker.pdb
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\The_Guidow_Maker.Form1.resources
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\The_Guidow_Maker.Properties.Resources.resources
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\The Guidow Maker.exe
+C:\Documents and Settings\Development08.IDIDOMAIN\My Documents\IT\Development\The Guidow Maker\The Guidow Maker\obj\x86\Debug\The Guidow Maker.pdb
